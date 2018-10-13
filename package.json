@@ -1,0 +1,26 @@
+{
+  "name": "nodetaskapp",
+  "version": "1.0.0",
+  "description": "node + mysql practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/littleizzy/NodeTaskApp.git"
+  },
+  "keywords": [
+    "node",
+    "mysql"
+  ],
+  "author": "Izzy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/littleizzy/NodeTaskApp/issues"
+  },
+  "homepage": "https://github.com/littleizzy/NodeTaskApp#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
